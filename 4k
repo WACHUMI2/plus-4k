@@ -1,0 +1,778 @@
+#EXTM3U
+#EXTINF:0 tvg-id="LA1.es" group-title="⚡|ES| TDT⚡",ES: La 1 HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79888.ts
+#EXTINF:0 tvg-id="LA1.es" group-title="⚡|ES| TDT⚡",ES: La 1 SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79889.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| TDT⚡",ES: La 2 HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79891.ts
+#EXTINF:0 tvg-id="LA2.es" group-title="⚡|ES| TDT⚡",ES: La 2 SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79892.ts
+#EXTINF:0 tvg-id="Antena3.es" group-title="⚡|ES| TDT⚡",ES: Antena 3 HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79894.ts
+#EXTINF:0 tvg-id="Antena3.es" group-title="⚡|ES| TDT⚡",ES: Antena 3 SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79895.ts
+#EXTINF:0 tvg-id="Cuatro.es" group-title="⚡|ES| TDT⚡",ES: Cuatro HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79897.ts
+#EXTINF:0 tvg-id="Cuatro.es" group-title="⚡|ES| TDT⚡",ES: Cuatro SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79898.ts
+#EXTINF:0 tvg-id="Telecinco.es" group-title="⚡|ES| TDT⚡",ES: Telecinco HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79900.ts
+#EXTINF:0 tvg-id="Telecinco.es" group-title="⚡|ES| TDT⚡",ES: Telecinco SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79901.ts
+#EXTINF:0 tvg-id="LaSexta.sp" group-title="⚡|ES| TDT⚡",ES: La Sexta HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79903.ts
+#EXTINF:0 tvg-id="LaSexta.sp" group-title="⚡|ES| TDT⚡",ES: La Sexta SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79904.ts
+#EXTINF:0 tvg-id="Neox.es" group-title="⚡|ES| TDT⚡",ES: NEOX FHD
+http://465057033210321374.niceapy.xyz:80/play/20226/20226/321374.ts
+
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Autonómicos⚡",A3 Series Internacional
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/81522.ts
+#EXTINF:0 tvg-id="Apunt.es" group-title="⚡|ES| Autonómicos⚡",À Punt (720p)
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/81523.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Autonómicos⚡",BBC Drama (720p)
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/81534.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Autonómicos⚡",BBC World News (576p)
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/81536.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Autonómicos⚡",Bloomberg TV EMEA Live Event (720p)
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/81538.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Autonómicos⚡",CGTN (576p)
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/81557.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Autonómicos⚡",CMM TV (360p) [Not 24/7]
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/81561.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Autonómicos⚡",CNN International Germany (720p)
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/81563.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Autonómicos⚡",Fashion TV (1080p)
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/81582.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Autonómicos⚡",Levante TV (320p) [Not 24/7]
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/81637.ts
+#EXTINF:0 tvg-id="NASA.us" group-title="⚡|ES| Autonómicos⚡",NASA TV (720p)
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/81646.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Autonómicos⚡",Red Bull TV (1080p)
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/81679.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Autonómicos⚡",Top Gear (720p)
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/81703.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Autonómicos⚡",Trece TV (576p)
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/81705.ts
+#EXTINF:0 tvg-id="Hashtag0.es" group-title="⚡|ES| Autonómicos⚡",#0 FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79737.ts
+#EXTINF:0 tvg-id="Hashtag0.es" group-title="⚡|ES| Autonómicos⚡",#0 HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79738.ts
+
+#EXTINF:0 tvg-id="M.Estrenos.es" group-title="⚡|ES| Cine & Series⚡",ES: Movistar  Estrenos FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79740.ts
+#EXTINF:0 tvg-id="M.Estrenos.es" group-title="⚡|ES| Cine & Series⚡",ES: Movistar  Estrenos HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79741.ts
+#EXTINF:0 tvg-id="M.Estrenos.es" group-title="⚡|ES| Cine & Series⚡",ES: Movistar  Estrenos SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79742.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Cine & Series⚡",ES: Movistar Estrenos 2 FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79743.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Cine & Series⚡",ES: Movistar Estrenos 2 HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79744.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Cine & Series⚡",ES: Movistar Estrenos 2 SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79745.ts
+#EXTINF:0 tvg-id="M.Accion.es" group-title="⚡|ES| Cine & Series⚡",ES: Movistar Acción FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79746.ts
+#EXTINF:0 tvg-id="M.Accion.es" group-title="⚡|ES| Cine & Series⚡",ES: Movistar  Acción HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79747.ts
+#EXTINF:0 tvg-id="M.Accion.es" group-title="⚡|ES| Cine & Series⚡",ES: Movistar Acción SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79748.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Cine & Series⚡",ES: Movistar Drama FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79749.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Cine & Series⚡",ES: Movistar Drama HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79750.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Cine & Series⚡",ES: Movistar Drama SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79751.ts
+#EXTINF:0 tvg-id="M.Comedia.es" group-title="⚡|ES| Cine & Series⚡",ES: Movistar Comedia FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79752.ts
+#EXTINF:0 tvg-id="M.Comedia.es" group-title="⚡|ES| Cine & Series⚡",ES: Movistar Comedia HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79753.ts
+#EXTINF:0 tvg-id="M.Comedia.es" group-title="⚡|ES| Cine & Series⚡",ES: Movistar Comedia SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79754.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Cine & Series⚡",ES: Movistar  Cine Ñ
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79755.ts
+#EXTINF:0 tvg-id="Hollywood.es" group-title="⚡|ES| Cine & Series⚡",ES: Hollywood FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79756.ts
+#EXTINF:0 tvg-id="Hollywood.es" group-title="⚡|ES| Cine & Series⚡",ES: Hollywood HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79757.ts
+#EXTINF:0 tvg-id="Hollywood.es" group-title="⚡|ES| Cine & Series⚡",ES: Hollywood SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79758.ts
+#EXTINF:0 tvg-id="Scifi.es" group-title="⚡|ES| Cine & Series⚡",ES: SyFy FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79759.ts
+#EXTINF:0 tvg-id="Scifi.es" group-title="⚡|ES| Cine & Series⚡",ES: SYFY HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79760.ts
+#EXTINF:0 tvg-id="Scifi.es" group-title="⚡|ES| Cine & Series⚡",ES: SyFy SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79761.ts
+#EXTINF:0 tvg-id="TCM.es" group-title="⚡|ES| Cine & Series⚡",ES: TCM FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79762.ts
+#EXTINF:0 tvg-id="TCM.es" group-title="⚡|ES| Cine & Series⚡",ES: TCM HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79763.ts
+#EXTINF:0 tvg-id="TCM.es" group-title="⚡|ES| Cine & Series⚡",ES: TCM SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79764.ts
+#EXTINF:0 tvg-id="TNT.es" group-title="⚡|ES| Cine & Series⚡",ES: TNT FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79765.ts
+#EXTINF:0 tvg-id="TNT.es" group-title="⚡|ES| Cine & Series⚡",ES: TNT HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79766.ts
+#EXTINF:0 tvg-id="TNT.es" group-title="⚡|ES| Cine & Series⚡",ES: TNT SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79767.ts
+#EXTINF:0 tvg-id="AXNhd.es" group-title="⚡|ES| Cine & Series⚡",ES: AXN FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79768.ts
+#EXTINF:0 tvg-id="AXNhd.es" group-title="⚡|ES| Cine & Series⚡",ES: AXN HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79769.ts
+#EXTINF:0 tvg-id="AXNhd.es" group-title="⚡|ES| Cine & Series⚡",ES: AXN SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79770.ts
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="⚡|ES| Cine & Series⚡",ES: AXN White FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79771.ts
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="⚡|ES| Cine & Series⚡",ES: AXN White HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79772.ts
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="⚡|ES| Cine & Series⚡",ES: AXN White SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79773.ts
+#EXTINF:0 tvg-id="Fox.es" group-title="⚡|ES| Cine & Series⚡",ES:  Fox FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79774.ts
+#EXTINF:0 tvg-id="Fox.es" group-title="⚡|ES| Cine & Series⚡",ES:  Fox HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79775.ts
+#EXTINF:0 tvg-id="Fox.es" group-title="⚡|ES| Cine & Series⚡",ES: Fox SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79776.ts
+#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="⚡|ES| Cine & Series⚡",ES: Cosmo FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79777.ts
+#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="⚡|ES| Cine & Series⚡",ES: Cosmo HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79778.ts
+#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="⚡|ES| Cine & Series⚡",ES: Cosmo SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79779.ts
+#EXTINF:0 tvg-id="Sundance.es" group-title="⚡|ES| Cine & Series⚡",ES: Sundance TV
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79780.ts
+#EXTINF:0 tvg-id="Paramount.es" group-title="⚡|ES| Cine & Series⚡",ES: Paramount Channel
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79781.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Cine & Series⚡",ES: Atres Series FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79782.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Cine & Series⚡",ES: A3 Series Internacional HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79783.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Cine & Series⚡",ES: A3Cine
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79784.tshttp://465057033210321221.niceapy.xyz:80/play/20226/20226/321221.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Cine & Series⚡",ES: DMAX FHD
+http://465057033210321225.niceapy.xyz:80/play/20226/20226/321225.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Cine & Series⚡",ES: DKISS HD
+http://465057033210321224.niceapy.xyz:80/play/20226/20226/321224.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Cine & Series⚡",ES: FACTORIA DE FICCION HD
+http://465057033210321246.niceapy.xyz:80/play/20226/20226/321246.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Cine & Series⚡",ES: FDF FHD
+http://465057033210321247.niceapy.xyz:80/play/20226/20226/321247.ts
+#EXTINF:0 tvg-id="Hollywood.es" group-title="⚡|ES| Cine & Series⚡",ES: HOLLYWOOD FHD
+http://465057033210321265.niceapy.xyz:80/play/20226/20226/321265.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Cine & Series⚡",ES: A3 SERIES FHD
+http://465057033210321086.niceapy.xyz:80/play/20226/20226/321086.ts
+#EXTINF:0 tvg-id="Nova.es" group-title="⚡|ES| Cine & Series⚡",ES: NOVA FHD
+http://465057033210321382.niceapy.xyz:80/play/20226/20226/321382.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Cine & Series⚡",ES: ENERGY FHD
+http://465057033210321236.niceapy.xyz:80/play/20226/20226/321236.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Cine & Series⚡",ES: MEGA FHD
+http://465057033210321299.niceapy.xyz:80/play/20226/20226/321299.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Cine & Series⚡",ES: BE MAD FHD
+http://465057033210321125.niceapy.xyz:80/play/20226/20226/321125.ts
+#EXTINF:0 tvg-id="AMC.es" group-title="⚡|ES| Cine & Series⚡",ES: AMC FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79785.ts
+#EXTINF:0 tvg-id="AMC.es" group-title="⚡|ES| Cine & Series⚡",ES: AMC HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79786.ts
+#EXTINF:0 tvg-id="AMC.es" group-title="⚡|ES| Cine & Series⚡",ES: AMC SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79787.ts
+#EXTINF:0 tvg-id="Calle13.es" group-title="⚡|ES| Cine & Series⚡",ES: Calle 13 FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79788.ts
+#EXTINF:0 tvg-id="Calle13.es" group-title="⚡|ES| Cine & Series⚡",ES: Calle 13 HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79789.ts
+#EXTINF:0 tvg-id="Calle13.es" group-title="⚡|ES| Cine & Series⚡",ES: Calle 13 SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79790.ts
+#EXTINF:0 tvg-id="M.Series.es" group-title="⚡|ES| Cine & Series⚡",ES: Movistar Series FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79791.ts
+#EXTINF:0 tvg-id="M.Series.es" group-title="⚡|ES| Cine & Series⚡",ES: Movistar Series HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79792.ts
+#EXTINF:0 tvg-id="M.Series.es" group-title="⚡|ES| Cine & Series⚡",ES: Movistar  Series SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79793.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Cine & Series⚡",ES: Movistar Series 2 FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79794.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Cine & Series⚡",ES: Movistar Series 2 FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79795.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Cine & Series⚡",ES: Movistar  Series 2 SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79796.ts
+#EXTINF:0 tvg-id="ComedyCentral.es" group-title="⚡|ES| Cine & Series⚡",ES: Comedy Central FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79797.ts
+#EXTINF:0 tvg-id="Dark.es" group-title="⚡|ES| Cine & Series⚡",ES: Dark
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79798.ts
+
+#EXTINF:0 tvg-id="Nova.es" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: Nova
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79911.ts
+#EXTINF:0 tvg-id="ComedyCentral.es" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: COMEDY CENTRAL FHD
+http://465057033210321183.niceapy.xyz:80/play/20226/20226/321183.ts
+#EXTINF:0 tvg-id="Mega.es" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: Mega
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79905.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: FDF HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79906.ts
+#EXTINF:0 tvg-id="DMAX.es" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: DMAX
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79907.ts
+#EXTINF:0 tvg-id="BEMAD.es" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: Be Mad
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79908.ts
+#EXTINF:0 tvg-id="Energy.es" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: Energy
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79909.ts
+#EXTINF:0 tvg-id="Neox.es" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: Neox
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79910.ts
+#EXTINF:0 tvg-id="Ten.es" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: TEN
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79912.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: Blaze
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79913.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: Movistar  FEST FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79914.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: Movistar FEST HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79915.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: Movistar  FEST SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79916.ts
+#EXTINF:0 tvg-id="CrimeAndInvestigation.es" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: Crimen + Investigación
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79917.ts
+#EXTINF:0 tvg-id="Divinity.es" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: Divinity
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79918.ts
+#EXTINF:0 tvg-id="Cocina.es" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: Canal Cocina
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79919.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: DreamWorks FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79920.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: DreamWorks HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79921.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: DreamWorks SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79922.ts
+#EXTINF:0 tvg-id="BabyTV.es" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: Baby TV
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79923.ts
+#EXTINF:0 tvg-id="Boing.es" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: Boing
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79924.ts
+#EXTINF:0 tvg-id="Panda.es" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: Canal Panda
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79925.ts
+#EXTINF:0 tvg-id="ClanTVE.es" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: Clan
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79926.ts
+#EXTINF:0 tvg-id="DisneyChannel.es" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: Disney Channel FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79927.ts
+#EXTINF:0 tvg-id="DisneyChannel.es" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: Disney Channel SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79928.ts
+#EXTINF:0 tvg-id="Nickelodeon.es" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: Nickelodeon FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79929.ts
+#EXTINF:0 tvg-id="Nickelodeon.es" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: Nickelodeon FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79930.ts
+#EXTINF:0 tvg-id="Nickelodeon.es" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: Nickelodeon SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79931.ts
+#EXTINF:0 tvg-id="DisneyJr.es" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: Disney JR
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79932.ts
+#EXTINF:0 tvg-id="NickJunior.es" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: Nick JR
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79933.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: Movistar La Resistencia FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/81733.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: Movistar La Resistencia HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/81734.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Entretenimiento e Infantil⚡",ES: Movistar La Resistencia SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/81735.ts
+
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",00- CARTELERA ESTRENOS
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329851.ts
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",01- ESTRENOS 1
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329852.ts
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",02- ESTRENOS 2
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329853.ts
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",03- ESTRENOS 3
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329854.ts
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",04- ESTRENOS 4
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329855.ts
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",05- ESTRENOS 5
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329856.ts
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",06- ESTRENOS 6
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329857.ts
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",07- ESTRENOS 7
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329858.ts
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",08- ESTRENOS 8
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329859.ts
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",09- ESTRENOS 9
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329860.ts
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",10- ESTRENOS 10
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329861.ts
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",11- ESTRENOS 11
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329862.ts
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",12- ESTRENOS 12
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329863.ts
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",13- ESTRENOS 13
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329864.ts
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",14- ESTRENOS 14
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329865.ts
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",15- ESTRENOS 15
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329866.ts
+
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Documentales⚡",ES: National Geografic FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79934.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Documentales⚡",ES: National Geografic HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79935.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Documentales⚡",ES: National Geografic SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79936.ts
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="⚡|ES| Documentales⚡",ES: Nat Geo Wild FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79937.ts
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="⚡|ES| Documentales⚡",ES: Nat Geo Wild HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79938.ts
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="⚡|ES| Documentales⚡",ES: Nat Geo Wild SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79939.ts
+#EXTINF:0 tvg-id="CazayPesca.es" group-title="⚡|ES| Documentales⚡",ES: Caza y Pesca FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79940.ts
+#EXTINF:0 tvg-id="CazayPesca.es" group-title="⚡|ES| Documentales⚡",ES: Caza y Pesca HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79941.ts
+#EXTINF:0 tvg-id="CazayPesca.es" group-title="⚡|ES| Documentales⚡",ES: Caza y Pesca SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79942.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Documentales⚡",ES: Canal De Casa
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79943.ts
+#EXTINF:0 tvg-id="Odisea.es" group-title="⚡|ES| Documentales⚡",ES: Canal Odisea
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79944.ts
+#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="⚡|ES| Documentales⚡",ES: Discovery Channel
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79945.ts
+#EXTINF:0 tvg-id="Historia.es" group-title="⚡|ES| Documentales⚡",ES: Historia
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79946.ts
+#EXTINF:0 tvg-id="IberaliaTV.es" group-title="⚡|ES| Documentales⚡",ES: Iberalia
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79947.ts
+#EXTINF:0 tvg-id="Cazavision.es" group-title="⚡|ES| Documentales⚡",ES: Cazavision
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79948.ts
+
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",LA: Cartoon Network HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33144.ts
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",LA Cartoon Network HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33145.ts
+
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Infantil Latino✌",INF: Nat Geo Kids
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/270.ts
+#EXTINF:0 tvg-id="Boomerang.mx" group-title="✌|LAT| Infantil Latino✌",MX: Boomerang
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/2067.ts
+
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| 24/7 Pluto & Rakuten⚡",Rakuten Action Movies Spain (720p)
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/81673.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| 24/7 Pluto & Rakuten⚡",Rakuten Comedy Movies Spain (720p)
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/81674.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| 24/7 Pluto & Rakuten⚡",Rakuten Spotlight Spain (720p)
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/81675.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| 24/7 Pluto & Rakuten⚡",Rakuten Top Free Spain (720p)
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/81676.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| 24/7 Pluto & Rakuten⚡",Rakuten TV Shows Spain (720p)
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/81677.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| 24/7 Pluto & Rakuten⚡",#Vamos FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79861.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| 24/7 Pluto & Rakuten⚡",#Vamos HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79862.ts
+#EXTINF:0 tvg-id="Vamos.es" group-title="⚡|ES| 24/7 Pluto & Rakuten⚡",#Vamos SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79863.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| 24/7 Pluto & Rakuten⚡",#V FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79864.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| 24/7 Pluto & Rakuten⚡",#V SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79865.ts
+
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="⚡|ES| Otros Deportes⚡",ES: Movistar Deportes FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79875.ts
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="⚡|ES| Otros Deportes⚡",ES: Movistar Deportes HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79876.ts
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="⚡|ES| Otros Deportes⚡",ES: Movistar Deportes SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79877.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Otros Deportes⚡",ES: Movistar  DEPORTES 1 FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79878.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Otros Deportes⚡",ES: Movistar DEPORTES 1 HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79879.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Otros Deportes⚡",ES: Movistar DEPORTES 1 SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79880.ts
+#EXTINF:0 tvg-id="M.Deportes2.es" group-title="⚡|ES| Otros Deportes⚡",ES: Movistar DEPORTES 2
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79881.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Otros Deportes⚡",ES: Movistar  DEPORTES 3
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79882.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Otros Deportes⚡",ES: Movistar DEPORTES 4
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79883.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Otros Deportes⚡",ES:  Movistar DEPORTES 5
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79884.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Otros Deportes⚡",ES: Movistar DEPORTES 6
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79885.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Otros Deportes⚡",ES:  Movistar Deportes 7
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79886.ts
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="⚡|ES| Otros Deportes⚡",ES: TOROS TV
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/141004.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Otros Deportes⚡",MX : GOL TV
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/1996.ts
+
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Dazn⚡",DAZN 1 FHD  ▶
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/255310.ts
+#EXTINF:0 tvg-id="DAZN209.it" group-title="⚡|ES| Dazn⚡",DAZN 1 HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/255311.ts
+#EXTINF:0 tvg-id="DAZN1.es" group-title="⚡|ES| Dazn⚡",DAZN 1 SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/255312.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Dazn⚡",DAZN 2 FHD  ▶
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/255313.ts
+#EXTINF:0 tvg-id="DAZN212.it" group-title="⚡|ES| Dazn⚡",DAZN 2 HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/255314.ts
+#EXTINF:0 tvg-id="DAZN2.es" group-title="⚡|ES| Dazn⚡",DAZN 2 SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/255315.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Dazn⚡",DAZN 3 FHD  ▶
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/255316.ts
+#EXTINF:0 tvg-id="DAZN3.es" group-title="⚡|ES| Dazn⚡",DAZN 3 SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/255317.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Dazn⚡",DAZN 4 FHD  ▶
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/255318.ts
+#EXTINF:0 tvg-id="DAZN4.es" group-title="⚡|ES| Dazn⚡",DAZN 4 SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/255319.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Dazn⚡",DAZN FORMULA 1 FHD  ▶♫
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/255321.ts
+
+#EXTINF:0 tvg-id="Multideporte1.es" group-title="⚡|ES| Deportes España⚡",MULTIDEPORTE
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182409.ts
+#EXTINF:0 tvg-id="GolTVHD.cl" group-title="⚡|ES| Deportes España⚡",GOL TV FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182414.ts
+#EXTINF:0 tvg-id="GolTVHD.cl" group-title="⚡|ES| Deportes España⚡",GOL TV HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182415.ts
+#EXTINF:0 tvg-id="GOL.es" group-title="⚡|ES| Deportes España⚡",GOL TV SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182416.ts
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="⚡|ES| Deportes España⚡",EUROSPORT 1 FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182417.ts
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="⚡|ES| Deportes España⚡",EUROSPORT 1 HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182418.ts
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="⚡|ES| Deportes España⚡",EUROSPORT 1 SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182419.ts
+#EXTINF:0 tvg-id="Eurosport2.es" group-title="⚡|ES| Deportes España⚡",EUROSPORT 2 FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182420.ts
+#EXTINF:0 tvg-id="Eurosport2.es" group-title="⚡|ES| Deportes España⚡",EUROSPORT 2 HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182421.ts
+#EXTINF:0 tvg-id="Eurosport2.es" group-title="⚡|ES| Deportes España⚡",EUROSPORT 2 SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182422.ts
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="⚡|ES| Deportes España⚡",TELEDEPORTE FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182423.ts
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="⚡|ES| Deportes España⚡",TELEDEPORTE HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182424.ts
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="⚡|ES| Deportes España⚡",TELEDEPORTE SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182425.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. DAZN FORMULA 1 FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182436.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. DAZN FORMULA 1 4K
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182437.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. DAZN FORMULA 1 FHD B
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182438.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. DAZN FORMULA 1 HD 720p
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182439.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. DAZN FORMULA 1 SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182440.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. DAZN 1 FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182441.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. DAZN 1 HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182442.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. DAZN 1 SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182443.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. DAZN 2 FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182444.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. DAZN 2 HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182445.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. DAZN 2 SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182446.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. DAZN 3 FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182447.ts
+#EXTINF:0 tvg-id="DAZN3.es" group-title="⚡|ES| Deportes España⚡",DAZN 3 SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182448.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. DAZN 4 FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182449.ts
+#EXTINF:0 tvg-id="DAZN4.es" group-title="⚡|ES| Deportes España⚡",DAZN 4 SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182450.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. GOLF FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182451.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. GOLF HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182452.ts
+#EXTINF:0 tvg-id="Golf.es" group-title="⚡|ES| Deportes España⚡",M. GOLF SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182453.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",DBIKE FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182454.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",BARCA TV FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182455.ts
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="⚡|ES| Deportes España⚡",REAL MADRID TV FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182456.ts
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="⚡|ES| Deportes España⚡",REAL MADRID TV
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182457.ts
+#EXTINF:0 tvg-id="BetisTV.es" group-title="⚡|ES| Deportes España⚡",BETIS TV
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182458.ts
+#EXTINF:0 tvg-id="SFCTV.es" group-title="⚡|ES| Deportes España⚡",SEVILLA FC TV
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182459.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",DAZN LA L I G A FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182460.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",DAZN LA L I G A FHD 265
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182461.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",DAZN LA L I G A HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182462.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",DAZN LA L I G A SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182463.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",DAZN LA L I G A 2 FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182464.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",DAZN LA L I G A 2 HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182465.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",DAZN LA L I G A 2 SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182466.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",L I G A TV BAR FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182467.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",L I G A TV BAR HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182468.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",L I G A TV BAR SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182469.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. LA L I G A FHD 4K MULTI AUDIO
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182470.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. LA L I G A FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182471.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. LA L I G A FHD 265
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182472.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M.  LA L I G A HD 1080P (FIBRA)
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182473.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. LA L I G A HD 1080P B (FIBRA)
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182474.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. LA L I G A HD 720P
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182475.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. LA L I G A SD MULTI AUDIO
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182476.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. LA L I G A SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182477.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. LA L I G A SMARTBANK FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182478.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. LA L I G A SMARTBANK M1 FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182479.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. LA L I G A 2 FHD (FIBRA)
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182480.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. L I G A 2 FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182481.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. LA L I G A 2 SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182482.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. LA L I G A 3 FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182483.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. LA L I G A 3 SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182484.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. LA L I G A 4 HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182485.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. LA L I G A 5 HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182486.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. LA L I G A 6 HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182487.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. LA L I G A 7
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182488.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. LA L I G A 8
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182489.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. LA L I G A 9
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182490.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. LA L I G A 10
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182491.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. L CAMPEONES FHD 265
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182492.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. L CAMPEONES FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182493.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M.  L CAMPEONES FHD B
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182494.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. L CAMPEONES FHD (FIBRA)
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182495.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. L CAMPEONES HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182496.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. L CAMPEONES HD 1080p
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182497.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. L CAMPEONES HD 1080p B
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182498.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M.  L CAMPEONES HD 720P
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182499.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. L CAMPEONES HD 720p B
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182500.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. L CAMPEONES SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182501.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. L CAMPEONES SD B
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182502.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. L CAMPEONES 1 FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182503.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. L CAMPEONES 1 HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182504.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. L CAMPEONES 1 SD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182505.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. L CAMPEONES 2 FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182506.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. L CAMPEONES 2 HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182507.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. L CAMPEONES 3 HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182508.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. L CAMPEONES 4 HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182509.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. L CAMPEONES 5
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182510.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. L CAMPEONES 6
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182511.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. L CAMPEONES 7
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182512.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",M. L CAMPEONES 8
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182513.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",GO&GO TV FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182514.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",FOOTTERS PREMIUM A
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182515.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",FOOTTERS PREMIUM B
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182516.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",FOOTTERS PREMIUM C
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182517.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",FOOTTERS 1
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182518.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",FOOTTERS 2
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182519.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",FOOTTERS 3
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182520.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",FOOTTERS 4
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182521.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",FOOTTERS 5
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182522.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",FOOTTERS 6
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182523.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",FOOTTERS 7
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182524.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",FOOTTERS 8
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182525.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",FOOTTERS 9
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182526.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",FOOTTERS 10
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182527.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",FOOTTERS 11
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182528.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",FOOTTERS 12
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182529.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",FOOTTERS 13
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182530.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",FOOTTERS 14
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182531.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",FOOTTERS 15
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182532.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",FOOTTERS 16
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182533.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",FOOTTERS 17
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182534.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",FOOTTERS 18
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182535.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",FOOTTERS 19
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182536.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",FOOTTERS 20
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182537.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",FOOTTERS 21
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182538.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",FOOTTERS 22
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/182539.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",LA L I G A REPLAY INFO HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/335283.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",LA L I G A REPLAY 1 HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/335284.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",LA L I G A REPLAY 2 HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/335285.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",LA L I G A REPLAY 3 HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/335286.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",LA L I G A REPLAY 4 HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/335287.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",LA L I G A REPLAY 5 HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/335288.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",LA L I G A REPLAY 6 HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/335289.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",LA L I G A REPLAY 7 HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/335290.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",LA L I G A REPLAY 8 HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/335291.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",LA L I G A REPLAY 9 HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/335292.ts
+#EXTINF:0 tvg-id="ext" group-title="⚡|ES| Deportes España⚡",LA L I G A REPLAY 10 HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/335293.ts
+
+#EXTINF:0 tvg-id="ext" group-title="⚽|LAT| Deportes Latino⚽",DEP: Bein sport españa
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/764.ts
+#EXTINF:0 tvg-id="ext" group-title="⚽|LAT| Deportes Latino⚽",DEP: Bein sports la liga
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/765.ts
+#EXTINF:0 tvg-id="ext" group-title="⚽|LAT| Deportes Latino⚽",DEP: Espn deportes
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/767.ts
+
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Cine Latino✌",CIN: HBO
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/155.ts
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Cine Latino✌",CIN: HBO 2
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/156.ts
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Cine Latino✌",CIN: HBO plus
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/157.ts
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Cine Latino✌",CIN: HBO signature
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/158.ts
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Cine Latino✌",CIN: HBO family
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/159.ts
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Cine Latino✌",CIN: HBO pop
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/160.ts
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Cine Latino✌",CIN: HBO mundi
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/161.ts
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Cine Latino✌",CIN: HBO xtreme
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/162.ts
+
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Documentales Latino✌",DOC: Discovery channel
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/325.ts
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Documentales Latino✌",DOC: Animal planet
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/326.ts
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Documentales Latino✌",DOC: Investigation discovery
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/328.ts
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Documentales Latino✌",DOC: Discovery home and health
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/330.ts
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Documentales Latino✌",DOC: Discovery Turbo
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/332.ts
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Documentales Latino✌",DOC: Historia Channel
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/334.ts
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Documentales Latino✌",DOC: Discovery TLC
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/335.ts
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Documentales Latino✌",DOC: Discovery Theater
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/336.ts
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Documentales Latino✌",DOC: Discovery World
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/337.ts
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Documentales Latino✌",DOC: Discovery Science
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/338.ts
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Documentales Latino✌",DOC: Discovery Civilization
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/339.ts
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Documentales Latino✌",DOC: History 2
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/340.ts
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Documentales Latino✌",DOC: Natgeo Wild
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/341.ts
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Documentales Latino✌",DOC: National Geographic
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/342.ts
+#EXTINF:0 tvg-id="LoveNature.nl" group-title="✌|LAT| Documentales Latino✌",Love Nature FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/212911.ts
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Documentales Latino✌",MX : Discovery Kids
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/1953.ts
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Documentales Latino✌",MX: Investigation Discovery
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/2044.ts
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="✌|LAT| Documentales Latino✌",MX: Discovery H&H
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/2074.ts
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Documentales Latino✌",MX: Discovery Family
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/36373.ts
+
+#EXTINF:0 tvg-id="ext" group-title="|US| Deportes USA",US: NBA League Pass
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/334663.ts
+#EXTINF:0 tvg-id="ext" group-title="|US| Deportes USA",US: NBA TV
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/334664.ts
+#EXTINF:0 tvg-id="TennisChannel.us" group-title="|US| Deportes USA",US: Tennis Channel
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/334691.ts
+#EXTINF:0 tvg-id="ext" group-title="|US| Deportes USA",US: WNBA
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/334696.ts
+#EXTINF:0 tvg-id="NHLNetwork.us" group-title="|US| Deportes USA",US: NHL Network
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/334676.ts
+#EXTINF:0 tvg-id="MLBNetwork.us" group-title="|US| Deportes USA",US: MLB Network
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/334659.ts
+#EXTINF:0 tvg-id="BTN.us" group-title="|US| Deportes USA",US: Big Ten Network
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/334638.ts
+#EXTINF:0 tvg-id="CBSSportsNetwork.us" group-title="|US| Deportes USA",US: CBS Sports Network
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/334639.ts
+#EXTINF:0 tvg-id="ext" group-title="|US| Deportes USA",US: Eleven Sports
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/334640.ts
+
+#EXTINF:0 tvg-id="ext" group-title="|LAT| Deportes Latino",DEP: NBA
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/281.ts
+#EXTINF:0 tvg-id="ext" group-title="|LAT| Deportes Latino",DEP HD: UFC Fight Pass
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/312780.ts
+#EXTINF:0 tvg-id="ext" group-title="|LAT| Deportes Latino",DEP: Fox Sports Premiun
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/290.ts
+#EXTINF:0 tvg-id="ext" group-title="|LAT| Deportes Latino",DEP: Tennis Channel
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/317.ts
+#EXTINF:0 tvg-id="ext" group-title="|LAT| Deportes Latino",DEP: MLB Internacional
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/319.ts
+#EXTINF:0 tvg-id="ext" group-title="|LAT| Deportes Latino",DEP: UFC
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/321.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Brasil",BR: FOX PREMIUM 2 HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/34173.ts
+#EXTINF:0 tvg-id="ext" group-title="Brasil",BR: PREMIERE CLUBES HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/34211.ts
+
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| 24/7 Latino✌",24/7: simpsons
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/520.ts
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| 24/7 Latino✌",24/7: 50 Clásicos de Disney
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/499.ts
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| 24/7 Latino✌",24/7: South
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/522.ts
+
