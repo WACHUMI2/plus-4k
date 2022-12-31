@@ -1,0 +1,292 @@
+#EXTINF:-1,La 1
+plugin://plugin.video.f4mTester/?url=http://79.146.212.240:8069/udp/239.250.1.1:1234&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,La 2
+plugin://plugin.video.f4mTester/?url=http://79.146.212.240:8069/udp/239.250.1.2:1234&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ANTENA 3 HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0iy&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cuatro
+plugin://plugin.video.f4mTester/?url=http://79.146.212.240:8069/udp/239.250.5.2:1234&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Telecinco
+plugin://plugin.video.f4mTester/?url=http://79.146.212.240:8069/udp/239.250.5.1:1234&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,laSexta
+plugin://plugin.video.f4mTester/?url=http://79.146.212.240:8069/udp/239.250.4.2:1234&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,neox
+plugin://plugin.video.f4mTester/?url=http://79.146.212.240:8069/udp/239.250.4.3:1234&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOX HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0im&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,24h
+plugin://plugin.video.f4mTester/?url=http://79.146.212.240:8069/udp/239.250.1.3:1234&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Disney Channel
+plugin://plugin.video.f4mTester/?url=http://79.146.212.240:8069/udp/239.250.3.1:1234&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PARAMOUNT NETWORK
+plugin://plugin.video.f4mTester/?url=http://79.146.212.240:8069/udp/239.250.3.2:1234&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DMAX
+plugin://plugin.video.f4mTester/?url=http://79.146.212.240:8069/udp/239.250.3.3:1234&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GOL PLAY
+plugin://plugin.video.f4mTester/?url=http://79.146.212.240:8069/udp/239.250.3.4:1234&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,nova
+plugin://plugin.video.f4mTester/?url=http://79.146.212.240:8069/udp/239.250.4.4:1234&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,laSexta HD
+plugin://plugin.video.f4mTester/?url=http://79.146.212.240:8069/udp/239.250.4.6:1234&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FDF
+plugin://plugin.video.f4mTester/?url=http://79.146.212.240:8069/udp/239.250.5.3:1234&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Divinity
+plugin://plugin.video.f4mTester/?url=http://79.146.212.240:8069/udp/239.250.5.4:1234&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,atreseries HD
+plugin://plugin.video.f4mTester/?url=http://83.46.194.141:8100/play/a00p&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0ix&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0if&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AXN WHITE HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0jp&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BabyTV
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0k3&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CALLE 13 HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0j5&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CANAL COCINA
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0kv&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CANAL PANDA
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0k6&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CAZAyPESCA HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0ji&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CLAN TVE
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0k5&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cartoonito
+plugin://plugin.video.f4mTester/?url=http://51.179.188.106:4000/play/a00p/index.m3u8&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,LA Cartoon Network HD
+plugin://plugin.video.f4mTester/?url=http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33145.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,COMEDYCENTRALHD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0jr&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,COSMO HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0jo&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NICK JR
+plugin://plugin.video.f4mTester/?url=http://79.116.39.63:8000/play/a0m2&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NICKELODEONHD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0j3&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SUNDANCE TV
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0kw&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DKISS
+plugin://plugin.video.f4mTester/?url=http://83.46.194.141:8100/play/a00n&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SYFY HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0j6&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TCM HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0jd&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TEN
+plugin://plugin.video.f4mTester/?url=http://83.46.194.141:8100/play/a00s&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TRECE
+plugin://plugin.video.f4mTester/?url=http://83.46.194.141:8100/play/a00f&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BOM CINE
+plugin://plugin.video.f4mTester/?url=http://83.46.194.141:8100/play/a005&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BeMad tv HD
+plugin://plugin.video.f4mTester/?url=http://83.46.194.141:8100/play/a00q&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Boing
+plugin://plugin.video.f4mTester/?url=http://83.46.194.141:8100/play/a00h&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Energy
+plugin://plugin.video.f4mTester/?url=http://83.46.194.141:8100/play/a00g&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GOL PLAY
+plugin://plugin.video.f4mTester/?url=http://83.46.194.141:8100/play/a00x&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TNT HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0je&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CANAL ODISEA
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0kh&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CRIMEN+INVES
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0kf&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DISCOVERY
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0kd&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DISNEY CH HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0jg&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DreamWorks HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0is&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M+ La Resistencia
+plugin://plugin.video.f4mTester/?url=http://212.9.92.182:49000/play/a015&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,HISTORIA
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0ke&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,HOLLYWOODHD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0ir&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,#0 HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0jh&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,#VAMOSHD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0in&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M+ESTRENOSHD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0k1&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M+ ACCION HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0io&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M+ CL.SICOS HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0jq&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M+ DRAMA HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0iq&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M+ ESTRENOS 2 HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0jw&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M+ Fest
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0il&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M+ SERIES 2 HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0jc&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M+ SERIES HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0jm&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M+COMEDIA HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0ig&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BAR.A TV
+plugin://plugin.video.f4mTester/?url=http://79.116.39.63:8000/play/a0lw&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BOING
+plugin://plugin.video.f4mTester/?url=http://79.116.39.63:8000/play/a0m3&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CAZAyPESCA HD
+plugin://plugin.video.f4mTester/?url=http://79.116.39.63:8000/play/a0ji&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CLAN TVE
+plugin://plugin.video.f4mTester/?url=http://79.116.39.63:8000/play/a0k5&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BabyTV
+plugin://plugin.video.f4mTester/?url=http://79.116.39.63:8000/play/a0k3&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DAZN 1 HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0ie&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DAZN 2 HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0ii&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DAZN 3 HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0jz&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DAZN 4 HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0jy&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DAZN F1 HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0iv&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DAZN LaLiga
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0la&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M+ GOLF HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0jn&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M+LaLigaTVHD
+plugin://plugin.video.f4mTester/?url=http://212.9.92.182:49000/play/a01z&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M+ LaLiga 1 HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0id&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M+ LaLiga 2 HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0jt&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M+ LaLiga 3 HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0jv&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M+ LaLiga HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0it&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,LigaSmartBankHD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0l9&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Liga SmartBank
+plugin://plugin.video.f4mTester/?url=http://212.9.92.182:49000/play/a02m&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Liga SmartBank 2
+plugin://plugin.video.f4mTester/?url=http://212.9.92.182:49000/play/a02k&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,LigaSmartBankHD
+plugin://plugin.video.f4mTester/?url=http://212.9.92.182:49000/play/a02r&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M+DEPORTES1HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0iw&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M+DEPORTES4
+plugin://plugin.video.f4mTester/?url=http://79.116.39.63:8000/play/a0l5&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M+DEPORTESHD
+plugin://plugin.video.f4mTester/?url=http://79.116.39.63:8000/play/a0j8&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M+DEPORTES3
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0kn&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M+DEPORTES4
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0l5&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M+DEPORTESHD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0j8&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M+LCAMPEONES
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0jk&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M+LCAMPEONES1
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0jx&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M+LCAMPEONES2
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0k0&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MEZZO LIVE HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0j4&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NAT GEO HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0j9&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NG WILD HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0jf&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TOROS HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0ja&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,tdp
+plugin://plugin.video.f4mTester/?url=http://83.46.194.141:8100/play/a00k&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,tdp HD
+plugin://plugin.video.f4mTester/?url=http://83.46.194.141:8100/play/a00l&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,EUROSPORT1HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0j7&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,EUROSPORT2HD
+plugin://plugin.video.f4mTester/?url=http://79.116.39.63:8000/play/a0ju&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,EUROSPORT3HD
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0jl&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GOL
+plugin://plugin.video.f4mTester/?url=http://188.26.202.196:8000/play/a0k9&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Realmadrid TV HD
+plugin://plugin.video.f4mTester/?url=http://83.46.194.141:8100/play/a00r&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,00- CARTELERA ESTRENOS
+plugin://plugin.video.f4mTester/?url=http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329851.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,01- ESTRENOS 1
+plugin://plugin.video.f4mTester/?url=http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329852.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,02- ESTRENOS 2
+plugin://plugin.video.f4mTester/?url=http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329853.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,03- ESTRENOS 3
+plugin://plugin.video.f4mTester/?url=http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329854.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,04- ESTRENOS 4
+plugin://plugin.video.f4mTester/?url=http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329855.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,05- ESTRENOS 5
+plugin://plugin.video.f4mTester/?url=http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329856.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,06- ESTRENOS 6
+plugin://plugin.video.f4mTester/?url=http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329857.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,07- ESTRENOS 7
+plugin://plugin.video.f4mTester/?url=http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329858.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,08- ESTRENOS 8
+plugin://plugin.video.f4mTester/?url=http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329859.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,09- ESTRENOS 9
+plugin://plugin.video.f4mTester/?url=http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329860.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,10- ESTRENOS 10
+plugin://plugin.video.f4mTester/?url=http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329861.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,11- ESTRENOS 11
+plugin://plugin.video.f4mTester/?url=http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329862.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,12- ESTRENOS 12
+plugin://plugin.video.f4mTester/?url=http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329863.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,13- ESTRENOS 13
+plugin://plugin.video.f4mTester/?url=http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329864.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,14- ESTRENOS 14
+plugin://plugin.video.f4mTester/?url=http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329865.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,15- ESTRENOS 15
+plugin://plugin.video.f4mTester/?url=http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329866.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,15- ESTRENOS 16
+plugin://plugin.video.f4mTester/?url=http://protocol.solanaflix.com:8080/play/_-HQyL7Zrv6t6tXvQRXa4tQz-i4C8b3xqTq_3n0_oZ8&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,15- ESTRENOS 17
+plugin://plugin.video.f4mTester/?url=http://185.233.16.171:8000/live/juan1234/juan1234/267808.ts]]?token=H0EMV0RQRl8UWF8FVQcACVNUBgRXAABVAQBVDFZaAwsHUQIDDlsFUQJDFRZAFkBdBw48WFASDVYDAF4IWxQXRhcGFmleXEZfFFALAwZXBRpKQRdYWVUVXgQBUQpXAAcAUVpIFEdRAEcMD0xYX04QXR4XBkNaUVs7UVIQUQBdFwkKFghaGxoLC2kFXFlSDFYaXEFSExgSXhdFFVxWFlRZH0YBDUJFWRAAFFtXQV8OHhoFDBZfQEJORg8VI2tBFBdWHBcBWERRCwsUWxtAQEAeGg8QPENRQ0MWUFYLXREaDxFUQUgUWlkcOlUOV1pWAUZRCQ0QEw4SBkYZFQtXDVFBXBY8FF9TGl4LQw1VSQ==:&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESPN 2 HD
+plugin://plugin.video.f4mTester/?url=http://187.102.208.109:50000/play/a008/index.m3u8&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESPN 3 HD
+plugin://plugin.video.f4mTester/?url=http://187.102.208.109:50000/play/a00g/index.m3u8&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESPN 4 HD
+plugin://plugin.video.f4mTester/?url=http://187.102.208.109:50000/play/a00v/index.m3u8&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESPN EXTRA HD
+plugin://plugin.video.f4mTester/?url=http://187.102.208.109:50000/play/a014/index.m3u8&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESPN HD
+plugin://plugin.video.f4mTester/?url=http://187.102.208.109:50000/play/a00b/index.m3u8&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,HBO 2 HD
+plugin://plugin.video.f4mTester/?url=http://187.102.208.109:50000/play/a01c/index.m3u8&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,HBO Family HD
+plugin://plugin.video.f4mTester/?url=http://187.102.208.109:50000/play/a01x/index.m3u8&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,HBO HD
+plugin://plugin.video.f4mTester/?url=http://187.102.208.109:50000/play/a015/index.m3u8&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,HBO POP HD
+plugin://plugin.video.f4mTester/?url=http://187.102.208.109:50000/play/a007/index.m3u8&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,HBO XTREME HD
+plugin://plugin.video.f4mTester/?url=http://187.102.208.109:50000/play/a01y/index.m3u8&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Discovery H&H HD
+plugin://plugin.video.f4mTester/?url=http://187.102.208.109:50000/play/a00r/index.m3u8&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Discovery HD
+plugin://plugin.video.f4mTester/?url=http://187.102.208.109:50000/play/a01v/index.m3u8&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Discovery Kids HD
+plugin://plugin.video.f4mTester/?url=http://187.102.208.109:50000/play/a00q/index.m3u8&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Discovery Theater HD
+plugin://plugin.video.f4mTester/?url=http://187.102.208.109:50000/play/a00s/index.m3u8&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Discovery World HD
+plugin://plugin.video.f4mTester/?url=http://187.102.208.109:50000/play/a011/index.m3u8&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Discovery Kids HD
+plugin://plugin.video.f4mTester/?url=http://8.243.104.157:8083/play/a00w/index.m3u8&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Nat Geo HD
+plugin://plugin.video.f4mTester/?url=http://8.243.104.157:8083/play/a00d/index.m3u8&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,History 2 HD
+plugin://plugin.video.f4mTester/?url=http://8.243.104.157:8083/play/a01t/index.m3u8&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Animal Planet HD
+plugin://plugin.video.f4mTester/?url=http://8.243.104.157:8083/play/a01l/index.m3u8&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Discovery Theater HD
+plugin://plugin.video.f4mTester/?url=http://8.243.104.157:8083/play/a00m/index.m3u8&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Discovery World HD
+plugin://plugin.video.f4mTester/?url=http://8.243.104.157:8083/play/a00e/index.m3u8&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: NBA League Pass
+plugin://plugin.video.f4mTester/?url=http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/334663.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: NBA TV
+plugin://plugin.video.f4mTester/?url=http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/334664.ts&amp;streamtype=TSDOWNLOADER
