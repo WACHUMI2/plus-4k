@@ -1,0 +1,296 @@
+#EXTM3U
+#EXTINF:0 tvg-id="LA1.es" group-title="Channels",La 1
+http://79.146.212.240:8069/udp/239.250.1.1:1234
+#EXTINF:0 tvg-id="LA2.es" group-title="Channels",La 2
+http://79.146.212.240:8069/udp/239.250.1.2:1234
+#EXTINF:0 tvg-id="Antena3.es" group-title="Channels",ANTENA 3 HD
+http://188.26.202.196:8000/play/a0iy
+#EXTINF:0 tvg-id="Cuatro.es" group-title="Channels",Cuatro
+http://79.146.212.240:8069/udp/239.250.5.2:1234
+#EXTINF:0 tvg-id="Telecinco.es" group-title="Channels",Telecinco
+http://79.146.212.240:8069/udp/239.250.5.1:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",laSexta
+http://79.146.212.240:8069/udp/239.250.4.2:1234
+#EXTINF:0 tvg-id="Neox.es" group-title="Channels",neox
+http://79.146.212.240:8069/udp/239.250.4.3:1234
+#EXTINF:0 tvg-id="Fox.es" group-title="Channels",FOX HD
+http://188.26.202.196:8000/play/a0im
+#EXTINF:0 tvg-id="ext" group-title="Channels",24h
+http://79.146.212.240:8069/udp/239.250.1.3:1234
+#EXTINF:0 tvg-id="DisneyChannel.es" group-title="Channels",Disney Channel
+http://79.146.212.240:8069/udp/239.250.3.1:1234
+#EXTINF:0 tvg-id="Paramount.es" group-title="Channels",PARAMOUNT NETWORK
+http://79.146.212.240:8069/udp/239.250.3.2:1234
+#EXTINF:0 tvg-id="DMAX.es" group-title="Channels",DMAX
+http://79.146.212.240:8069/udp/239.250.3.3:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",GOL PLAY
+http://79.146.212.240:8069/udp/239.250.3.4:1234
+#EXTINF:0 tvg-id="Nova.es" group-title="Channels",nova
+http://79.146.212.240:8069/udp/239.250.4.4:1234
+#EXTINF:0 tvg-id="LaSexta.sp" group-title="Channels",laSexta HD
+http://79.146.212.240:8069/udp/239.250.4.6:1234
+#EXTINF:0 tvg-id="FDF.es" group-title="Channels",FDF
+http://79.146.212.240:8069/udp/239.250.5.3:1234
+#EXTINF:0 tvg-id="Divinity.es" group-title="Channels",Divinity
+http://79.146.212.240:8069/udp/239.250.5.4:1234
+#EXTINF:0 tvg-id="Atreseries.es" group-title="Channels",atreseries HD
+http://83.46.194.141:8100/play/a00p
+#EXTINF:0 tvg-id="AMC.es" group-title="Channels",AMC HD
+http://188.26.202.196:8000/play/a0ix
+#EXTINF:0 tvg-id="AXNhd.es" group-title="Channels",AXN HD
+http://188.26.202.196:8000/play/a0if
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="Channels",AXN WHITE HD
+http://188.26.202.196:8000/play/a0jp
+#EXTINF:0 tvg-id="BabyTV.es" group-title="Channels",BabyTV
+http://188.26.202.196:8000/play/a0k3
+#EXTINF:0 tvg-id="Calle13.es" group-title="Channels",CALLE 13 HD
+http://188.26.202.196:8000/play/a0j5
+#EXTINF:0 tvg-id="Cocina.es" group-title="Channels",CANAL COCINA
+http://188.26.202.196:8000/play/a0kv
+#EXTINF:0 tvg-id="Panda.es" group-title="Channels",CANAL PANDA
+http://188.26.202.196:8000/play/a0k6
+#EXTINF:0 tvg-id="ext" group-title="Channels",CAZAyPESCA HD
+http://188.26.202.196:8000/play/a0ji
+#EXTINF:0 tvg-id="ClanTVE.es" group-title="Channels",CLAN TVE
+http://188.26.202.196:8000/play/a0k5
+#EXTINF:0 tvg-id="Cartoonito.uk" group-title="Channels",Cartoonito
+http://51.179.188.106:4000/play/a00p/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",LA Cartoon Network HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33145.ts
+#EXTINF:0 tvg-id="ComedyCentral.es" group-title="✌|LAT| Latinos✌",COMEDYCENTRALHD
+http://188.26.202.196:8000/play/a0jr
+#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="✌|LAT| Latinos✌",COSMO HD
+http://188.26.202.196:8000/play/a0jo
+#EXTINF:0 tvg-id="NickJunior.es" group-title="✌|LAT| Latinos✌",NICK JR
+http://79.116.39.63:8000/play/a0m2
+#EXTINF:0 tvg-id="nickelod-hd" group-title="✌|LAT| Latinos✌",NICKELODEONHD
+http://188.26.202.196:8000/play/a0j3
+#EXTINF:0 tvg-id="Sundance.es" group-title="✌|LAT| Latinos✌",SUNDANCE TV
+http://188.26.202.196:8000/play/a0kw
+#EXTINF:0 tvg-id="DKISS.es" group-title="✌|LAT| Latinos✌",DKISS
+http://83.46.194.141:8100/play/a00n
+#EXTINF:0 tvg-id="Scifi.es" group-title="✌|LAT| Latinos✌",SYFY HD
+http://188.26.202.196:8000/play/a0j6
+#EXTINF:0 tvg-id="TCM.es" group-title="✌|LAT| Latinos✌",TCM HD
+http://188.26.202.196:8000/play/a0jd
+#EXTINF:0 tvg-id="Ten.es" group-title="✌|LAT| Latinos✌",TEN
+http://83.46.194.141:8100/play/a00s
+#EXTINF:0 tvg-id="Trece.es" group-title="✌|LAT| Latinos✌",TRECE
+http://83.46.194.141:8100/play/a00f
+#EXTINF:0 tvg-id="BomCine.es" group-title="✌|LAT| Latinos✌",BOM CINE
+http://83.46.194.141:8100/play/a005
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",BeMad tv HD
+http://83.46.194.141:8100/play/a00q
+#EXTINF:0 tvg-id="Boing.es" group-title="✌|LAT| Latinos✌",Boing
+http://83.46.194.141:8100/play/a00h
+#EXTINF:0 tvg-id="Energy.es" group-title="✌|LAT| Latinos✌",Energy
+http://83.46.194.141:8100/play/a00g
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",GOL PLAY
+http://83.46.194.141:8100/play/a00x
+#EXTINF:0 tvg-id="TNT.es" group-title="✌|LAT| Latinos✌",TNT HD
+http://188.26.202.196:8000/play/a0je
+#EXTINF:0 tvg-id="Odisea.es" group-title="✌|LAT| Latinos✌",CANAL ODISEA
+http://188.26.202.196:8000/play/a0kh
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",CRIMEN+INVES
+http://188.26.202.196:8000/play/a0kf
+#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="✌|LAT| Latinos✌",DISCOVERY
+http://188.26.202.196:8000/play/a0kd
+#EXTINF:0 tvg-id="DisneyChannel.es" group-title="✌|LAT| Latinos✌",DISNEY CH HD
+http://188.26.202.196:8000/play/a0jg
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",DreamWorks HD
+http://188.26.202.196:8000/play/a0is
+#EXTINF:0 tvg-id="M+LaResistencia.es" group-title="✌|LAT| Latinos✌",M+ La Resistencia
+http://212.9.92.182:49000/play/a015
+#EXTINF:0 tvg-id="Historia.es" group-title="✌|LAT| Latinos✌",HISTORIA
+http://188.26.202.196:8000/play/a0ke
+#EXTINF:0 tvg-id="Hollywood.es" group-title="✌|LAT| Latinos✌",HOLLYWOODHD
+http://188.26.202.196:8000/play/a0ir
+#EXTINF:0 tvg-id="Hashtag0.es" group-title="✌|LAT| Latinos✌",#0 HD
+http://188.26.202.196:8000/play/a0jh
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",#VAMOSHD
+http://188.26.202.196:8000/play/a0in
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",M+ESTRENOSHD
+http://188.26.202.196:8000/play/a0k1
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",M+ ACCION HD
+http://188.26.202.196:8000/play/a0io
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",M+ CL.SICOS HD
+http://188.26.202.196:8000/play/a0jq
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",M+ DRAMA HD
+http://188.26.202.196:8000/play/a0iq
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",M+ ESTRENOS 2 HD
+http://188.26.202.196:8000/play/a0jw
+#EXTINF:0 tvg-id="M.Fest.es" group-title="✌|LAT| Latinos✌",M+ Fest
+http://188.26.202.196:8000/play/a0il
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",M+ SERIES 2 HD
+http://188.26.202.196:8000/play/a0jc
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",M+ SERIES HD
+http://188.26.202.196:8000/play/a0jm
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",M+COMEDIA HD
+http://188.26.202.196:8000/play/a0ig
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",BAR.A TV
+http://79.116.39.63:8000/play/a0lw
+#EXTINF:0 tvg-id="Boing.es" group-title="✌|LAT| Latinos✌",BOING
+http://79.116.39.63:8000/play/a0m3
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",CAZAyPESCA HD
+http://79.116.39.63:8000/play/a0ji
+#EXTINF:0 tvg-id="ClanTVE.es" group-title="✌|LAT| Latinos✌",CLAN TVE
+http://79.116.39.63:8000/play/a0k5
+#EXTINF:0 tvg-id="BabyTV.es" group-title="✌|LAT| Latinos✌",BabyTV
+http://79.116.39.63:8000/play/a0k3
+#EXTINF:0 tvg-id="DAZN209.it" group-title="✌|LAT| Latinos✌",DAZN 1 HD
+http://188.26.202.196:8000/play/a0ie
+#EXTINF:0 tvg-id="DAZN212.it" group-title="✌|LAT| Latinos✌",DAZN 2 HD
+http://188.26.202.196:8000/play/a0ii
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",DAZN 3 HD
+http://188.26.202.196:8000/play/a0jz
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",DAZN 4 HD
+http://188.26.202.196:8000/play/a0jy
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",DAZN F1 HD
+http://188.26.202.196:8000/play/a0iv
+#EXTINF:0 tvg-id="DAZNLaLiga.es" group-title="✌|LAT| Latinos✌",DAZN LaLiga
+http://188.26.202.196:8000/play/a0la
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",M+ GOLF HD
+http://188.26.202.196:8000/play/a0jn
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",M+LaLigaTVHD
+http://212.9.92.182:49000/play/a01z
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",M+ LaLiga 1 HD
+http://188.26.202.196:8000/play/a0id
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",M+ LaLiga 2 HD
+http://188.26.202.196:8000/play/a0jt
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",M+ LaLiga 3 HD
+http://188.26.202.196:8000/play/a0jv
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",M+ LaLiga HD
+http://188.26.202.196:8000/play/a0it
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",LigaSmartBankHD
+http://188.26.202.196:8000/play/a0l9
+#EXTINF:0 tvg-id="LaLigaSmartBank.es" group-title="✌|LAT| Latinos✌",Liga SmartBank
+http://212.9.92.182:49000/play/a02m
+#EXTINF:0 tvg-id="LaLigaSmartBankM1.es" group-title="✌|LAT| Latinos✌",Liga SmartBank 2
+http://212.9.92.182:49000/play/a02k
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",LigaSmartBankHD
+http://212.9.92.182:49000/play/a02r
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",M+DEPORTES1HD
+http://188.26.202.196:8000/play/a0iw
+#EXTINF:0 tvg-id="M.Deportes4.es" group-title="✌|LAT| Latinos✌",M+DEPORTES4
+http://79.116.39.63:8000/play/a0l5
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",M+DEPORTESHD
+http://79.116.39.63:8000/play/a0j8
+#EXTINF:0 tvg-id="M.Deportes3.es" group-title="✌|LAT| Latinos✌",M+DEPORTES3
+http://188.26.202.196:8000/play/a0kn
+#EXTINF:0 tvg-id="M.Deportes4.es" group-title="✌|LAT| Latinos✌",M+DEPORTES4
+http://188.26.202.196:8000/play/a0l5
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",M+DEPORTESHD
+http://188.26.202.196:8000/play/a0j8
+#EXTINF:0 tvg-id="M.LigaCampeones.es" group-title="✌|LAT| Latinos✌",M+LCAMPEONES
+http://188.26.202.196:8000/play/a0jk
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",M+LCAMPEONES1
+http://188.26.202.196:8000/play/a0jx
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",M+LCAMPEONES2
+http://188.26.202.196:8000/play/a0k0
+#EXTINF:0 tvg-id="MezzoLiveHD.es" group-title="✌|LAT| Latinos✌",MEZZO LIVE HD
+http://188.26.202.196:8000/play/a0j4
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="✌|LAT| Latinos✌",NAT GEO HD
+http://188.26.202.196:8000/play/a0j9
+#EXTINF:0 tvg-id="wild-hd" group-title="✌|LAT| Latinos✌",NG WILD HD
+http://188.26.202.196:8000/play/a0jf
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="✌|LAT| Latinos✌",TOROS HD
+http://188.26.202.196:8000/play/a0ja
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",tdp
+http://83.46.194.141:8100/play/a00k
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",tdp HD
+http://83.46.194.141:8100/play/a00l
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",EUROSPORT1HD
+http://188.26.202.196:8000/play/a0j7
+#EXTINF:0 tvg-id="esp2" group-title="✌|LAT| Latinos✌",EUROSPORT2HD
+http://79.116.39.63:8000/play/a0ju
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",EUROSPORT3HD
+http://188.26.202.196:8000/play/a0jl
+#EXTINF:0 tvg-id="GOL.es" group-title="✌|LAT| Latinos✌",GOL
+http://188.26.202.196:8000/play/a0k9
+#EXTINF:0 tvg-id="ext" group-title="✌|LAT| Latinos✌",Realmadrid TV HD
+http://83.46.194.141:8100/play/a00r
+
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",00- CARTELERA ESTRENOS
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329851.ts
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",01- ESTRENOS 1
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329852.ts
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",02- ESTRENOS 2
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329853.ts
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",03- ESTRENOS 3
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329854.ts
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",04- ESTRENOS 4
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329855.ts
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",05- ESTRENOS 5
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329856.ts
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",06- ESTRENOS 6
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329857.ts
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",07- ESTRENOS 7
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329858.ts
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",08- ESTRENOS 8
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329859.ts
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",09- ESTRENOS 9
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329860.ts
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",10- ESTRENOS 10
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329861.ts
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",11- ESTRENOS 11
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329862.ts
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",12- ESTRENOS 12
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329863.ts
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",13- ESTRENOS 13
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329864.ts
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",14- ESTRENOS 14
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329865.ts
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",15- ESTRENOS 15
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329866.ts
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",15- ESTRENOS 16
+http://protocol.solanaflix.com:8080/play/_-HQyL7Zrv6t6tXvQRXa4tQz-i4C8b3xqTq_3n0_oZ8
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",15- ESTRENOS 17
+http://185.233.16.171:8000/live/juan1234/juan1234/267808.ts]]?token=H0EMV0RQRl8UWF8FVQcACVNUBgRXAABVAQBVDFZaAwsHUQIDDlsFUQJDFRZAFkBdBw48WFASDVYDAF4IWxQXRhcGFmleXEZfFFALAwZXBRpKQRdYWVUVXgQBUQpXAAcAUVpIFEdRAEcMD0xYX04QXR4XBkNaUVs7UVIQUQBdFwkKFghaGxoLC2kFXFlSDFYaXEFSExgSXhdFFVxWFlRZH0YBDUJFWRAAFFtXQV8OHhoFDBZfQEJORg8VI2tBFBdWHBcBWERRCwsUWxtAQEAeGg8QPENRQ0MWUFYLXREaDxFUQUgUWlkcOlUOV1pWAUZRCQ0QEw4SBkYZFQtXDVFBXBY8FF9TGl4LQw1VSQ==:
+#EXTINF:0 tvg-id="ESPN2.us" group-title="M+ Taquilla Cine",ESPN 2 HD
+http://187.102.208.109:50000/play/a008/index.m3u8
+#EXTINF:0 tvg-id="ESPN3HD.mx" group-title="M+ Taquilla Cine",ESPN 3 HD
+http://187.102.208.109:50000/play/a00g/index.m3u8
+#EXTINF:0 tvg-id="ESPN4.br" group-title="M+ Taquilla Cine",ESPN 4 HD
+http://187.102.208.109:50000/play/a00v/index.m3u8
+#EXTINF:0 tvg-id="Espnextra.br" group-title="M+ Taquilla Cine",ESPN EXTRA HD
+http://187.102.208.109:50000/play/a014/index.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="M+ Taquilla Cine",ESPN HD
+http://187.102.208.109:50000/play/a00b/index.m3u8
+#EXTINF:0 tvg-id="HBO2.pl" group-title="M+ Taquilla Cine",HBO 2 HD
+http://187.102.208.109:50000/play/a01c/index.m3u8
+#EXTINF:0 tvg-id="HBOFamilyHD.cl" group-title="M+ Taquilla Cine",HBO Family HD
+http://187.102.208.109:50000/play/a01x/index.m3u8
+#EXTINF:0 tvg-id="HBO.hu" group-title="M+ Taquilla Cine",HBO HD
+http://187.102.208.109:50000/play/a015/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",HBO POP HD
+http://187.102.208.109:50000/play/a007/index.m3u8
+#EXTINF:0 tvg-id="Maxprime.br" group-title="M+ Taquilla Cine",HBO XTREME HD
+http://187.102.208.109:50000/play/a01y/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="M+ Taquilla Cine",Discovery H&H HD
+http://187.102.208.109:50000/play/a00r/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="M+ Taquilla Cine",Discovery HD
+http://187.102.208.109:50000/play/a01v/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryKidsHD.pe" group-title="M+ Taquilla Cine",Discovery Kids HD
+http://187.102.208.109:50000/play/a00q/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="M+ Taquilla Cine",Discovery Theater HD
+http://187.102.208.109:50000/play/a00s/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryWorldHD.pe" group-title="M+ Taquilla Cine",Discovery World HD
+http://187.102.208.109:50000/play/a011/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryKidsHD.pe" group-title="M+ Taquilla Cine",Discovery Kids HD
+http://8.243.104.157:8083/play/a00w/index.m3u8
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="M+ Taquilla Cine",Nat Geo HD
+http://8.243.104.157:8083/play/a00d/index.m3u8
+#EXTINF:0 tvg-id="H2.uk" group-title="M+ Taquilla Cine",History 2 HD
+http://8.243.104.157:8083/play/a01t/index.m3u8
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="M+ Taquilla Cine",Animal Planet HD
+http://8.243.104.157:8083/play/a01l/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="M+ Taquilla Cine",Discovery Theater HD
+http://8.243.104.157:8083/play/a00m/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryWorldHD.pe" group-title="M+ Taquilla Cine",Discovery World HD
+http://8.243.104.157:8083/play/a00e/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="|US| Deportes USA",US: NBA League Pass
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/334663.ts
+#EXTINF:0 tvg-id="ext" group-title="|US| Deportes USA",US: NBA TV
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/334664.ts
